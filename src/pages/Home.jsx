@@ -2576,7 +2576,7 @@ const HomeSection = () => {
                     <div className="w-8 h-8 flex-shrink-0 rounded-md bg-purple-100 flex items-center justify-center mr-4">
                       <FaQuestionCircle className="text-purple-600" />
                     </div>
-                    <h3 className="text-lg font-semibold text-gray-900">
+                    <h3 className="text-base md:text-lg font-semibold text-gray-900">
                       {faq.question}
                     </h3>
                   </div>
